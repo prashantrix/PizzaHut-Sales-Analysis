@@ -70,7 +70,6 @@ See the [Pizza_Analysis.pdf](https://github.com/user-attachments/files/22747556/
 
 🧩 Dashboard Highlights
 
-
 Dashboard 1 — Overall Sales Overview
 
 KPIs for Quantity, Revenue, and Orders
@@ -95,7 +94,9 @@ Category & Size Filters
 
 Screenshots included:
 
+
 <img width="1323" height="738" alt="Screenshot 2025-10-07 193922" src="https://github.com/user-attachments/assets/35c169fe-a4aa-4df5-a46f-2e67d18cac13" />
+
 
 <img width="1322" height="735" alt="Screenshot 2025-10-07 193946" src="https://github.com/user-attachments/assets/287d6403-91a3-4b4e-a830-bd79bd4e5bf8" />
 
