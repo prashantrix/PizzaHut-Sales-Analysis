@@ -1,4 +1,4 @@
-🍕 Pizza Hut Sales Analysis Dashboard
+# 🍕 Pizza Hut Sales Analysis Dashboard
 
 📊 Project Overview
 
@@ -18,6 +18,7 @@ Identify the most profitable and popular pizza types.
 
 Compare monthly and daily sales performance.
 
+
 🧠 Key Insights
 
 Total Revenue: ₹817.86K
@@ -32,6 +33,7 @@ Peak Sales Month: July showed the highest total sales.
 
 Order Trend: Most orders are placed on Fridays, with sales dropping toward Sundays.
 
+
 🗂️ Tools & Technologies Used
 
 SQL Server — for data extraction and KPI creation
@@ -39,6 +41,7 @@ SQL Server — for data extraction and KPI creation
 Power BI — for data visualization and dashboard building
 
 Excel — for initial data cleaning and exploration
+
 
 📈 SQL KPIs Implemented
 
@@ -64,7 +67,9 @@ Top 3 pizzas by revenue in each category
 
 See the [Pizza_Analysis.pdf](https://github.com/user-attachments/files/22747556/Pizza_Analysis.pdf) file for the full SQL code and queries.
 
+
 🧩 Dashboard Highlights
+
 
 Dashboard 1 — Overall Sales Overview
 
@@ -76,6 +81,7 @@ Sales by Category & Pizza Type
 
 Month-over-Month Sales Comparison
 
+
 Dashboard 2 — Detailed Pizza Performance
 
 Top & Least Pizzas by Revenue
@@ -86,13 +92,16 @@ Total Pizza Ordered by Type
 
 Category & Size Filters
 
+
 Screenshots included:
 
 <img width="1323" height="738" alt="Screenshot 2025-10-07 193922" src="https://github.com/user-attachments/assets/35c169fe-a4aa-4df5-a46f-2e67d18cac13" />
 
 <img width="1322" height="735" alt="Screenshot 2025-10-07 193946" src="https://github.com/user-attachments/assets/287d6403-91a3-4b4e-a830-bd79bd4e5bf8" />
 
+
 💡 Future Enhancements
+
 
 Integrate real-time data using APIs.
 
@@ -100,8 +109,11 @@ Add predictive sales forecasting.
 
 Include customer segmentation and loyalty analysis.
 
+
 👩‍💻 Author
 
 Prashant Kashyap
+
 📧 www.linkedin.com/in/prashant-kashyap-116ab224b
+
 📅 Project Year: 2025
