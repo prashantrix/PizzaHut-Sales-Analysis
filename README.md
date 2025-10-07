@@ -78,7 +78,7 @@ See the [Pizza_Analysis.pdf](https://github.com/user-attachments/files/22747556/
 
 ## 🧩 Dashboard Highlights
 
-Dashboard 1 — Overall Sales Overview
+- Dashboard 1 — Overall Sales Overview
 
 KPIs for Quantity, Revenue, and Orders
 
@@ -88,9 +88,7 @@ Sales by Category & Pizza Type
 
 Month-over-Month Sales Comparison
 
-
-
-Dashboard 2 — Detailed Pizza Performance
+- Dashboard 2 — Detailed Pizza Performance
 
 Top & Least Pizzas by Revenue
 
@@ -102,7 +100,7 @@ Category & Size Filters
 
 
 
-## Screenshots included:
+## 🖼️ Screenshots included:
 
 
 <img width="1323" height="738" alt="Screenshot 2025-10-07 193922" src="https://github.com/user-attachments/assets/35c169fe-a4aa-4df5-a46f-2e67d18cac13" />
