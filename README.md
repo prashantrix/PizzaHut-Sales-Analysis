@@ -62,6 +62,10 @@ Observations:
 - **Overview:** quantity, revenue and order KPIs, sales by pizza, sales by month, current vs last month, sales by category.
 - **Performance:** top and bottom 5 pizzas by revenue, pizzas ordered by name, orders by weekday, with category and size filters.
 
+![Overview page](Dashboard/dashboard_overview.png)
+
+![Performance page](Dashboard/dashboard_performance.png)
+
 ## Tools
 
 SQL Server (T-SQL), Power BI (DAX, Power Query).
