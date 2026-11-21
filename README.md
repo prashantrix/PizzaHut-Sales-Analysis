@@ -2,6 +2,10 @@
 
 SQL Server KPI analysis and a two-page Power BI dashboard on one year of pizza sales (1 Jan - 31 Dec 2015, 358 trading days).
 
+**Business question:** when and what does this shop sell, so that staffing and stock can be planned around it?
+
+**Short answer:** plan around the 12:00-13:59 and 17:00-18:59 windows (45.5% of orders), Fridays, and Large pizzas (38.2% of pizzas sold). Chicken pizzas earn the most per pizza sold, so they deserve menu space even though they sell the fewest units.
+
 ## Data
 
 Four tables, included as CSVs in [`pizza_sales/`](pizza_sales):
@@ -44,6 +48,16 @@ Observations:
 - Classic leads on both units (14,888) and revenue share. Chicken sells the fewest pizzas (11,050, 22.3% of units) but earns 23.96% of revenue, because it has the highest revenue per pizza sold (about 17.73, against 14.78 for Classic).
 - Monthly revenue stays between 64.0K and 72.6K, so seasonality in this data is mild.
 - Brie Carre is the lowest-revenue pizza at 11,588.50.
+
+## What I would do with this
+
+- Put the most kitchen and counter staff on the two busy windows and on Fridays. Sunday is the quietest day (2,624 orders against 3,538 on Friday).
+- Stock Large sizes and the top sellers first.
+- Keep Chicken pizzas prominent, since they bring in the most revenue per pizza.
+- Review the lowest earner, Brie Carre (11,588.50), before the next menu change.
+- Seasonality is mild (monthly revenue stays between 64.0K and 72.6K), so staffing by hour and weekday matters more than by month.
+
+This is one year of data from one shop. Check it against recent sales before acting.
 
 ## SQL
 
